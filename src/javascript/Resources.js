@@ -38,8 +38,8 @@ import introBCollisionSource from "../models/intro/creative/无标题.glb";
 import introRBaseSource from "../models/intro/creative/无标题.glb";
 import introRCollisionSource from "../models/intro/creative/无标题.glb";
 
-import introUBaseSource from "../models/intro/creative/无标题.glb";
-import introUCollisionSource from "../models/intro/creative/无标题.glb";
+import introUBaseSource from "../models/intro/creative/pig.glb";
+import introUCollisionSource from "../models/intro/creative/pig.glb";
 
 import introNBaseSource from "../models/intro/creative/无标题.glb";
 import introNCollisionSource from "../models/intro/creative/无标题.glb";
